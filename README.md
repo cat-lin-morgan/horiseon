@@ -4,4 +4,5 @@ The website I worked on is called Horiseon. The challenge was to go through the 
 
 
 ## Here is my website screenshot!
-![alt text](./horiseon/projectscreenshot.png "Website Screenshot")
+
+<img src="projectscreenshot.png" alt="Website Screenshot" />
